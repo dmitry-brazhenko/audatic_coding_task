@@ -1,2 +1,3 @@
-# audatic_coding_task
-Audatic coding task
+# Audatic coding task
+
+Here are solutions of Audatic online coding challenge
